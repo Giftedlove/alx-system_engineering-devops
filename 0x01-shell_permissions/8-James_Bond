@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 777 hello
-chmod a-r hello
+chmod a+rwx o-rwx hello
