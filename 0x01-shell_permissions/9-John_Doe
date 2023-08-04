@@ -1,2 +1,2 @@
 #!/bin/bash
-mode 664 hello
+mode 753 hello
